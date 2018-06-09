@@ -19,6 +19,10 @@ This screenshot is from 2009 :)
 
 ![screenshot](https://raw.githubusercontent.com/mamcer/soulstone/master/doc/screenshot.png)
 
+It surprises me the time incurred in details like the xml code comments and then the generation of an html help built with [Sandcastle](https://github.com/EWSoftware/SHFB).
+
+![help](https://raw.githubusercontent.com/mamcer/soulstone/master/doc/soulstone-help.png)
+
 ## Technologies
 
 - Visual Studio 2008

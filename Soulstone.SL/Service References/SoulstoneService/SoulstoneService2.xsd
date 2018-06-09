@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Soulstone.WebUI" xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Soulstone.WebUI" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:1281/SoulstoneService.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:import schemaLocation="http://localhost:1281/SoulstoneService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="SearchResultSet">
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="SearchResults" nillable="true" type="q1:ArrayOfKeyValueOfintSearchResult4rNAf31i" />
+      <xs:element minOccurs="0" name="SearchSeconds" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SearchResultSet" nillable="true" type="tns:SearchResultSet" />
+  <xs:complexType name="SearchResult">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="MusicTrackId" type="ser:guid" />
+      <xs:element minOccurs="0" name="ResultPath" nillable="true" type="tns:ArrayOfMusicTrackLocation" />
+      <xs:element minOccurs="0" name="TrackString" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SearchResult" nillable="true" type="tns:SearchResult" />
+  <xs:complexType name="ArrayOfMusicTrackLocation">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="MusicTrackLocation" type="tns:MusicTrackLocation" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfMusicTrackLocation" nillable="true" type="tns:ArrayOfMusicTrackLocation" />
+  <xs:complexType name="MusicTrackLocation">
+    <xs:annotation>
+      <xs:appinfo>
+        <IsValueType xmlns="http://schemas.microsoft.com/2003/10/Serialization/">true</IsValueType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="hostId" type="ser:guid" />
+      <xs:element minOccurs="0" name="isValid" type="xs:boolean" />
+      <xs:element minOccurs="0" name="path" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="MusicTrackLocation" nillable="true" type="tns:MusicTrackLocation" />
+  <xs:complexType name="MusicTrack">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Album" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Genre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Year" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="MusicTrack" nillable="true" type="tns:MusicTrack" />
+</xs:schema>

@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Soulstone.master.cs" Inherits="Soulstone.WebUI.Soulstone" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div style="float:left">
+        <span style="font-size:small;font-style:italic;">Soulstone Beta</span> 
+    </div>
+    <div class="header">
+        <a href="mailto:m4mc3r@gmail.com&subject=Sugerencia Soulstone" target="_blank">Sugerencias!</a>
+    </div>
+    <div style="border-top:1px solid #c9d7f1;font-size:1px;right: 0pt; margin-top:5px;margin-bottom:5px;"></div>
+    <div>
+        <asp:ContentPlaceHolder ID="BodyPlaceHolder" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div style="border-top:1px solid #c9d7f1;font-size:1px;right: 0pt; margin-top:5px;margin-bottom:5px;"></div>
+    <div class="footer">
+        <asp:Label runat="server" ID="lblSearchOver"></asp:Label><br /><br />
+        <span>©2009</span>
+    </div>
+</body>
+</html>

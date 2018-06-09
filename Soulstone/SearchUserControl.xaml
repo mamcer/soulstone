@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Soulstone.SearchUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="287" Width="526">
+    <Grid>
+        <ComboBox Height="23" IsEditable="True" Margin="35,10,46,0" Name="comboBox1" VerticalAlignment="Top" />
+        <Image Cursor="Hand" Height="23" HorizontalAlignment="Left" Margin="10,10,0,0" Name="image2" Source="file:///F:/prototype/prototype/prototype/images/user.png" Stretch="Fill" VerticalAlignment="Top" Width="25" />
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,10,12,0" Name="button1" VerticalAlignment="Top" Width="28">
+            <Image Source="file:\\F:\prototype\prototype\prototype\images\find.png"></Image>
+        </Button>
+        <ListBox Margin="10,48,12,7" Name="listBox1" />
+    </Grid>
+</UserControl>

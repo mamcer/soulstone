@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="Soulstone.SL.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="800" Height="600" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" >
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel HorizontalAlignment="Center">
+            <StackPanel Orientation="Vertical" Name="spSearch">
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Margin="0,10,0,0">
+                    <TextBox Name="txtSearch" Width="250" Margin="0,0,5,0" d:LayoutOverrides="Width" KeyDown="txtSearch_KeyDown" FontSize="11" />
+                    <Button Name="btnSearch" Height="24" Width="80" Content="Buscar" Margin="5,0,0,0" Click="btnSearch_Click" />
+                    <StackPanel VerticalAlignment="Bottom" Margin="5,0,0,0">
+                        <HyperlinkButton Name="lnkAdvancedSearch" Content="Búsqueda avanzada" Click="lnkAdvancedSearch_Click"></HyperlinkButton>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Margin="0,10,0,0">
+                    <RadioButton Name="rbTitle" Content="Título" IsChecked="true" Margin="0,0,5,0" Cursor="Hand"></RadioButton>
+                    <RadioButton Name="rbArtist" Content="Artista" IsChecked="false" Margin="5,0,0,0" Cursor="Hand"></RadioButton>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Name="spAdvancedSearch" HorizontalAlignment="Center" Orientation="Vertical" Margin="0,5,0,0" Visibility="Collapsed">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Column="0" Grid.Row="0" Text="Título" Width="50" Margin="0,10,5,10"></TextBlock>
+                    <TextBlock Grid.Column="0" Grid.Row="1" Text="Album" Width="50" Margin="0,10,5,10"></TextBlock>
+                    <TextBlock Grid.Column="0" Grid.Row="2" Text="Artista" Width="50" Margin="0,5,5,10"></TextBlock>
+                    <TextBlock Grid.Column="0" Grid.Row="3" Text="Año" Width="50" Margin="0,10,5,10"></TextBlock>
+                    <TextBlock Grid.Column="0" Grid.Row="4" Text="Género" Width="50" Margin="0,5,5,0"></TextBlock>
+                    <TextBox Name="txtAdvancedSearchTitle" Grid.Column="1" Grid.Row="0" Width="180" FontSize="10" Height="24" Margin="5,0,5,0" KeyDown="AdvancedSearch_KeyDown"></TextBox>
+                    <TextBox Name="txtAdvancedSearchAlbum" Grid.Column="1" Grid.Row="1" Width="180" FontSize="10" Height="24" Margin="5,0,5,0" KeyDown="AdvancedSearch_KeyDown"></TextBox>
+                    <TextBox Name="txtAdvancedSearchArtist" Grid.Column="1" Grid.Row="2" Width="180" FontSize="10" Height="24" Margin="5,0,5,0" KeyDown="AdvancedSearch_KeyDown"></TextBox>
+                    <TextBox Name="txtAdvancedSearchYear" Grid.Column="1" Grid.Row="3" Width="180" FontSize="10" Height="24" Margin="5,0,5,0" KeyDown="AdvancedSearch_KeyDown"></TextBox>
+                    <TextBox Name="txtAdvancedSearchGenre" Grid.Column="1" Grid.Row="4" Width="180" FontSize="10" Height="24" Margin="5,0,5,0" KeyDown="AdvancedSearch_KeyDown" ></TextBox>
+                </Grid>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button Name="btnAdvancedSearch" Width="60" Content="Buscar" Margin="0,10,5,0" Click="btnAdvancedSearch_Click"></Button>
+                    <Button Name="btnCancelAdvancedSearch" Width="60" Content="Cancelar" Margin="5,10,0,0" Click="btnCancelAdvancedSearch_Click"></Button>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Name="spResult" Orientation="Vertical" HorizontalAlignment="Center" Margin="0,10,0,0" Visibility="Collapsed">
+                <ListBox Name="lstResult" Width="600" Height="300" ScrollViewer.HorizontalScrollBarVisibility="Hidden"></ListBox>
+                <HyperlinkButton Name="lnkSavePlaylist" Content="Guardar playlist" Click="lnkSavePlaylist_Click"></HyperlinkButton>
+            </StackPanel>
+            <TextBlock Name="tbStatus" Text="Status" Visibility="Collapsed"></TextBlock>
+        </StackPanel>
+    </Grid>
+</UserControl>

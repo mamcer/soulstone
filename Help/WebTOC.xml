@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="7730d074-191f-40d9-8b36-4c5c2acef715" Title="Soulstone.Data Namespace" Url="html/479c4c1d-f161-d176-0100-6eac2880e297.htm">
+    <HelpTOCNode Id="d52f7807-70f7-4b78-b9ca-4bf24b78567b" Title="DataLayerBase Class" Url="html/5e1d26af-d9ed-e35a-14d0-97c5fe46823f.htm">
+      <HelpTOCNode Title="DataLayerBase Members" Url="html/0e1f9fb5-406b-dade-950a-d4d0ecde596e.htm" />
+      <HelpTOCNode Title="DataLayerBase Constructor " Url="html/4c976d65-94d2-4f2a-723d-184f8f5c3cc4.htm" />
+      <HelpTOCNode Id="aa5dc965-9aaf-433b-a205-d688340f8f81" Title="DataLayerBase Methods " Url="html/f6346fed-5d9e-ad1f-7349-9a23bfe94972.htm">
+        <HelpTOCNode Title="CreateHost Method " Url="html/119282bf-2544-6878-4b34-daa34c791655.htm" />
+        <HelpTOCNode Title="CreateOrUpdateMusicTrack Method " Url="html/bf8ee756-f68d-357a-ab1a-07b26c63428d.htm" />
+        <HelpTOCNode Id="b2f78ce6-d99f-4f79-a596-ddb8a98fec2d" Title="DeleteObsoleteEntries Method " Url="html/565f5bb9-5e5a-fb3b-c083-6816103aa4fe.htm">
+          <HelpTOCNode Title="DeleteObsoleteEntries Method " Url="html/cd11f265-a78e-6a4c-adc8-58a8701f524d.htm" />
+          <HelpTOCNode Title="DeleteObsoleteEntries Method (Int32)" Url="html/c4cba2ab-45f5-8a23-8e26-70ef592c051e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetAllHosts Method " Url="html/95f109d1-57b7-7fa3-443f-2b5e7be31939.htm" />
+        <HelpTOCNode Title="GetMusicTrack Method " Url="html/e8550949-ed58-f634-2ad7-33a124f41fc4.htm" />
+        <HelpTOCNode Title="GetTotalFileCount Method " Url="html/93877138-2ab1-0538-0855-91ae5f43b6fd.htm" />
+        <HelpTOCNode Title="HostExists Method " Url="html/a457a461-54e8-d203-8f91-5a0f7bd10a09.htm" />
+        <HelpTOCNode Title="Search Method " Url="html/c0efaec9-2bbb-ad67-42b3-53594bda2f5c.htm" />
+        <HelpTOCNode Title="TestConnection Method " Url="html/90d487cf-9399-25f1-84f8-26a41d11635c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b53bddad-a4de-4ceb-8ca8-71de4e063d9b" Title="DataLayerFactory Class" Url="html/84621d86-7975-38be-22d3-cb67aabb3f27.htm">
+      <HelpTOCNode Title="DataLayerFactory Members" Url="html/5a467081-1609-b526-0748-7c90df548714.htm" />
+      <HelpTOCNode Id="bd388179-68fa-466c-85c4-f99e14c2a491" Title="DataLayerFactory Methods " Url="html/fbdf1412-850c-ce6b-086d-ab9167fb8c92.htm">
+        <HelpTOCNode Title="GetDataLayer Method " Url="html/43321106-741a-0413-68dc-80f74825e495.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8a89f66f-1e88-45ed-b08c-0ab603edb2a0" Title="DataLayerFactory Properties " Url="html/7982bdbc-825c-96bb-34be-e31e3899f72f.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/d4091bb1-ac59-67a8-4bd4-86e1ae1b8ed6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="DataLayerType Enumeration" Url="html/472dc9fa-1ae7-32d5-71f8-32727bb2929a.htm" />
+    <HelpTOCNode Id="70b9714f-2392-4a6a-aa36-7dd5c7ee4c48" Title="DBConstants Class" Url="html/45566545-d86f-9e18-59cf-2ecab34b9d9d.htm">
+      <HelpTOCNode Title="DBConstants Members" Url="html/c005a67e-1336-1e74-206d-620545ef2fee.htm" />
+      <HelpTOCNode Title="DBConstants Constructor " Url="html/f4a67a80-a0b7-be82-b7af-c50bf96a513c.htm" />
+      <HelpTOCNode Title="DBConstants Methods " Url="html/eda0a626-5e26-a2cd-7f3b-d5824d29c2ce.htm" />
+      <HelpTOCNode Id="bee5451f-dbea-497c-baa7-c9b877892d34" Title="DBConstants Properties " Url="html/72dc0265-fa19-479e-b024-69b7fc338a55.htm">
+        <HelpTOCNode Title="Album Property " Url="html/a24b96e6-e8c9-e1d1-b05c-9c9cdb96927b.htm" />
+        <HelpTOCNode Title="Artist Property " Url="html/9c68f74d-7cd8-2a94-467a-2ba596b94a8a.htm" />
+        <HelpTOCNode Title="Genre Property " Url="html/19d4babd-8ea4-c06a-d3d9-889bead44ca8.htm" />
+        <HelpTOCNode Title="HostId Property " Url="html/ea7e7a12-f99a-9687-6a37-15824252232b.htm" />
+        <HelpTOCNode Title="MusicTrackId Property " Url="html/666ca68e-b5ae-d281-d7b5-d4000afe80d7.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/1cdf1334-3504-1d83-1a09-9832bf1745fe.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/e57797fb-0a8e-1756-5399-ce28a2da4f23.htm" />
+        <HelpTOCNode Title="Year Property " Url="html/76ac7c38-2dad-931d-2a26-ce2fb3bd3209.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b4551b7d-70a7-4392-a06f-ca612f12d3ad" Title="SqlServerDataLayer Class" Url="html/356bacf7-dbb5-7a8c-b55f-d9c5852085f5.htm">
+      <HelpTOCNode Title="SqlServerDataLayer Members" Url="html/a9075e5c-ea6a-ae21-a530-3f3eeca7be7f.htm" />
+      <HelpTOCNode Id="da5d6c10-f9d0-47d1-97ed-590e3a86cfc0" Title="SqlServerDataLayer Methods " Url="html/5b4188bc-f73f-5e11-3723-f05e044c0be5.htm">
+        <HelpTOCNode Title="CreateHost Method " Url="html/c21a3469-be5f-e0f8-6d6c-78d31dbf73fd.htm" />
+        <HelpTOCNode Title="CreateOrUpdateMusicTrack Method " Url="html/c0dfaa39-043e-8653-0c86-28e6400c5006.htm" />
+        <HelpTOCNode Id="b4f3ef7b-e0aa-4d3c-a5d6-28ebd300c78d" Title="DeleteObsoleteEntries Method " Url="html/6ab1fa21-e63b-cca2-000d-34964524fcd5.htm">
+          <HelpTOCNode Title="DeleteObsoleteEntries Method " Url="html/881e48f8-dbe8-0104-9233-ad33fb34a579.htm" />
+          <HelpTOCNode Title="DeleteObsoleteEntries Method (Int32)" Url="html/2446351b-5882-01a9-bc80-69fff0175651.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetAllHosts Method " Url="html/312b02ea-2d75-d846-cf5d-ce58a7335a00.htm" />
+        <HelpTOCNode Title="GetMusicTrack Method " Url="html/f02926ca-b214-42a2-b6a7-e578e6e8fb8c.htm" />
+        <HelpTOCNode Title="GetTotalFileCount Method " Url="html/a50ce945-35a3-ceb2-8f81-1bd58e890310.htm" />
+        <HelpTOCNode Title="HostExists Method " Url="html/5482b31b-c232-632e-b298-02b6db31d13e.htm" />
+        <HelpTOCNode Title="Search Method " Url="html/722bb3aa-950b-c353-ae17-4967ee793ca4.htm" />
+        <HelpTOCNode Title="TestConnection Method " Url="html/12dba264-d2d6-1de7-7a74-9628eb838b24.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="16f3a173-e1c4-452d-b629-12da379d28f6" Title="SqlServerDataLayer Properties " Url="html/608c7e74-a623-9b1b-deb4-19341918fe47.htm">
+        <HelpTOCNode Title="ConnString Property " Url="html/81575558-10a2-4608-c589-3629fcc72095.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="cf042ab5-cd2e-4846-9432-6e5806e7e60d" Title="Soulstone.Mp3 Namespace" Url="html/dff3b541-6c19-7fec-aef5-c8d386a8c465.htm">
+    <HelpTOCNode Id="10dad85a-2459-4a75-b437-75a742783207" Title="Id3Reader Class" Url="html/8975658d-eb66-971e-3913-8894f94075a8.htm">
+      <HelpTOCNode Title="Id3Reader Members" Url="html/20558902-ecad-3f9f-897d-61dc0d88a658.htm" />
+      <HelpTOCNode Id="4a733e5d-17ae-4485-afaf-ee62789af7e4" Title="Id3Reader Methods " Url="html/0a0b8c05-90b8-e351-e450-cb384f836030.htm">
+        <HelpTOCNode Title="GetMusicTrackFromID3 Method " Url="html/d0d482dd-a4cb-9221-37b5-1d488e23b59f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="decdf978-74db-48c5-aaee-3b6f4a05f49f" Title="Id3Reader Properties " Url="html/204b30c5-835c-f369-b6e0-23fd6e62f9a3.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/a6e6cfb8-872e-6c5a-aa43-5d39b2c060ea.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cdab9631-fcc6-4866-9d06-35f89e6b95bc" Title="MusicTrack Class" Url="html/8cd955b5-bb2c-4b75-5ea3-ced00610c862.htm">
+      <HelpTOCNode Title="MusicTrack Members" Url="html/ca5c4542-8127-2412-0203-51f48ccdab3a.htm" />
+      <HelpTOCNode Id="96c6211d-3786-4504-8c59-65adcf2e4042" Title="MusicTrack Constructor " Url="html/f52c507e-0ef2-b243-e9ea-31bcc1c99174.htm">
+        <HelpTOCNode Title="MusicTrack Constructor " Url="html/ccbca8cd-4a0c-610b-847b-8f167e9477b1.htm" />
+        <HelpTOCNode Title="MusicTrack Constructor (String, String, String, Int32, String)" Url="html/9c1772c0-9a8c-4c33-90cd-c065650f2122.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MusicTrack Methods " Url="html/a6764176-d2d9-32c8-eede-63997385a980.htm" />
+      <HelpTOCNode Id="d2002f83-d517-4c70-ad72-d39893fa8af7" Title="MusicTrack Properties " Url="html/295c77fc-5812-6c24-a2bc-e259588434cd.htm">
+        <HelpTOCNode Title="Album Property " Url="html/c683cd4b-8976-507f-ebf1-2fbf63318329.htm" />
+        <HelpTOCNode Title="Artist Property " Url="html/2fa7ee0d-b1eb-a5fd-d8a2-c22fa3accfff.htm" />
+        <HelpTOCNode Title="Genre Property " Url="html/f72b6ce3-4c80-fa97-96cb-72670b255efe.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/f4d98787-8445-3d34-18a5-5136f3de7d47.htm" />
+        <HelpTOCNode Title="Year Property " Url="html/c39d2614-6c7c-1321-eaa4-2972d1e720c7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6086441c-f825-464d-8a68-70cd8d4c14bb" Title="MusicTrackManager Class" Url="html/a2f8aca5-9477-fe85-c4c4-4132a2340137.htm">
+      <HelpTOCNode Title="MusicTrackManager Members" Url="html/57ab8ca3-7cc4-61bb-2174-e7d7de306848.htm" />
+      <HelpTOCNode Id="02ca70b5-b7c3-4dbe-b5b0-4ea8972d010e" Title="MusicTrackManager Methods " Url="html/5ea02665-e1c7-2ef8-08ae-59563ab2f660.htm">
+        <HelpTOCNode Title="GetMusicTrack Method " Url="html/dfd5e7a2-faa0-11b6-5a07-8fa204cc80ab.htm" />
+        <HelpTOCNode Title="GetTotalFileCount Method " Url="html/fe7faf51-80b5-00bf-4e37-d82ab67d9b87.htm" />
+        <HelpTOCNode Title="Search Method " Url="html/e75f33aa-4123-6680-48c4-2ecc91fd6426.htm" />
+        <HelpTOCNode Title="StartupCheck Method " Url="html/54a4df2b-28ee-e0e9-f52a-36fc8afce704.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="206df620-3c0e-4dab-b70d-e84445c77e55" Title="MusicTrackManager Properties " Url="html/ad4bbb81-8799-9e3a-7120-9e759616fd17.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/4a299fe1-9223-eb2b-7331-bad1e80a89d6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

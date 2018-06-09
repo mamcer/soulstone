@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soulstone.Mp3", "Soulstone.Mp3\Soulstone.Mp3.csproj", "{D45A0720-6011-4C22-A17B-36B6BCE52FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soulstone.Network", "Soulstone.Network\Soulstone.Network.csproj", "{CAC914E3-5ED1-4D33-AC28-00EC26292FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soulstone.Data", "Soulstone.Data\Soulstone.Data.csproj", "{49680F7C-EC34-4E3B-A051-48100525C0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soulstone.Test", "Soulstone.Test\Soulstone.Test.csproj", "{541C4377-1DE3-4A52-B306-2056C505A331}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5C93F3D-B82B-40A7-B870-BA38B7A23CF6}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		Soulstone.vsmdi = Soulstone.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soulstone.Searcher", "Soulstone.Searcher\Soulstone.Searcher.csproj", "{1AA20986-7081-4BA2-BDB8-3DE6FADABA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soulstone.SL", "Soulstone.SL\Soulstone.SL.csproj", "{A6290DDB-F9AC-4BBD-ACF2-FE9DF5C76F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soulstone.WebUI", "Soulstone.WebUI\Soulstone.WebUI.csproj", "{2B2D647A-D9D9-46F9-94D7-4D836D04E292}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://vmwin2003:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Soulstone.Data\\Soulstone.Data.csproj
+		SccProjectName1 = Soulstone/Soulstone.Data
+		SccLocalPath1 = Soulstone.Data
+		SccProjectUniqueName2 = Soulstone.Mp3\\Soulstone.Mp3.csproj
+		SccProjectName2 = Soulstone.Mp3
+		SccLocalPath2 = Soulstone.Mp3
+		SccProjectUniqueName3 = Soulstone.Network\\Soulstone.Network.csproj
+		SccProjectName3 = Soulstone.Network
+		SccLocalPath3 = Soulstone.Network
+		SccProjectUniqueName4 = Soulstone.Searcher\\Soulstone.Searcher.csproj
+		SccProjectName4 = Soulstone.Searcher
+		SccLocalPath4 = Soulstone.Searcher
+		SccProjectUniqueName5 = Soulstone.SL\\Soulstone.SL.csproj
+		SccProjectName5 = Soulstone.SL
+		SccLocalPath5 = Soulstone.SL
+		SccProjectUniqueName6 = Soulstone.Test\\Soulstone.Test.csproj
+		SccProjectName6 = Soulstone.Test
+		SccLocalPath6 = Soulstone.Test
+		SccProjectUniqueName7 = Soulstone.WebUI\\Soulstone.WebUI.csproj
+		SccProjectName7 = Soulstone.WebUI
+		SccLocalPath7 = Soulstone.WebUI
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Soulstone.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45A0720-6011-4C22-A17B-36B6BCE52FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45A0720-6011-4C22-A17B-36B6BCE52FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45A0720-6011-4C22-A17B-36B6BCE52FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45A0720-6011-4C22-A17B-36B6BCE52FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC914E3-5ED1-4D33-AC28-00EC26292FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC914E3-5ED1-4D33-AC28-00EC26292FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC914E3-5ED1-4D33-AC28-00EC26292FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC914E3-5ED1-4D33-AC28-00EC26292FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49680F7C-EC34-4E3B-A051-48100525C0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49680F7C-EC34-4E3B-A051-48100525C0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49680F7C-EC34-4E3B-A051-48100525C0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49680F7C-EC34-4E3B-A051-48100525C0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541C4377-1DE3-4A52-B306-2056C505A331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541C4377-1DE3-4A52-B306-2056C505A331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541C4377-1DE3-4A52-B306-2056C505A331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541C4377-1DE3-4A52-B306-2056C505A331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA20986-7081-4BA2-BDB8-3DE6FADABA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA20986-7081-4BA2-BDB8-3DE6FADABA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA20986-7081-4BA2-BDB8-3DE6FADABA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA20986-7081-4BA2-BDB8-3DE6FADABA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6290DDB-F9AC-4BBD-ACF2-FE9DF5C76F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6290DDB-F9AC-4BBD-ACF2-FE9DF5C76F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6290DDB-F9AC-4BBD-ACF2-FE9DF5C76F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6290DDB-F9AC-4BBD-ACF2-FE9DF5C76F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2D647A-D9D9-46F9-94D7-4D836D04E292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2D647A-D9D9-46F9-94D7-4D836D04E292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2D647A-D9D9-46F9-94D7-4D836D04E292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2D647A-D9D9-46F9-94D7-4D836D04E292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

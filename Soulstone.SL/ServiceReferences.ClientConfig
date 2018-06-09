@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_ISoulstoneService" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:1281/SoulstoneService.svc"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_ISoulstoneService"
+                contract="SoulstoneService.ISoulstoneService" name="BasicHttpBinding_ISoulstoneService" />
+        </client>
+    </system.serviceModel>
+</configuration>

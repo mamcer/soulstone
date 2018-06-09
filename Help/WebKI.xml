@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Album property" Url="html/a24b96e6-e8c9-e1d1-b05c-9c9cdb96927b.htm" />
+  <HelpKINode Title="Album property" Url="html/c683cd4b-8976-507f-ebf1-2fbf63318329.htm" />
+  <HelpKINode Title="Artist property" Url="html/2fa7ee0d-b1eb-a5fd-d8a2-c22fa3accfff.htm" />
+  <HelpKINode Title="Artist property" Url="html/9c68f74d-7cd8-2a94-467a-2ba596b94a8a.htm" />
+  <HelpKINode Title="ConnString property" Url="html/81575558-10a2-4608-c589-3629fcc72095.htm" />
+  <HelpKINode Title="CreateHost method" Url="html/119282bf-2544-6878-4b34-daa34c791655.htm" />
+  <HelpKINode Title="CreateHost method" Url="html/c21a3469-be5f-e0f8-6d6c-78d31dbf73fd.htm" />
+  <HelpKINode Title="CreateOrUpdateMusicTrack method" Url="html/bf8ee756-f68d-357a-ab1a-07b26c63428d.htm" />
+  <HelpKINode Title="CreateOrUpdateMusicTrack method" Url="html/c0dfaa39-043e-8653-0c86-28e6400c5006.htm" />
+  <HelpKINode Title="DataLayerBase class" Url="html/0e1f9fb5-406b-dade-950a-d4d0ecde596e.htm" />
+  <HelpKINode Title="DataLayerBase class" Url="html/5e1d26af-d9ed-e35a-14d0-97c5fe46823f.htm" />
+  <HelpKINode Title="DataLayerBase class">
+    <HelpKINode Title="about DataLayerBase class" Url="html/5e1d26af-d9ed-e35a-14d0-97c5fe46823f.htm" />
+    <HelpKINode Title="all members" Url="html/0e1f9fb5-406b-dade-950a-d4d0ecde596e.htm" />
+    <HelpKINode Title="constructor" Url="html/4c976d65-94d2-4f2a-723d-184f8f5c3cc4.htm" />
+    <HelpKINode Title="methods" Url="html/f6346fed-5d9e-ad1f-7349-9a23bfe94972.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataLayerBase.CreateHost method" Url="html/119282bf-2544-6878-4b34-daa34c791655.htm" />
+  <HelpKINode Title="DataLayerBase.CreateOrUpdateMusicTrack method" Url="html/bf8ee756-f68d-357a-ab1a-07b26c63428d.htm" />
+  <HelpKINode Title="DataLayerBase.DataLayerBase constructor" Url="html/4c976d65-94d2-4f2a-723d-184f8f5c3cc4.htm" />
+  <HelpKINode Title="DataLayerBase.DeleteObsoleteEntries method" Url="html/565f5bb9-5e5a-fb3b-c083-6816103aa4fe.htm" />
+  <HelpKINode Title="DataLayerBase.GetAllHosts method" Url="html/95f109d1-57b7-7fa3-443f-2b5e7be31939.htm" />
+  <HelpKINode Title="DataLayerBase.GetMusicTrack method" Url="html/e8550949-ed58-f634-2ad7-33a124f41fc4.htm" />
+  <HelpKINode Title="DataLayerBase.GetTotalFileCount method" Url="html/93877138-2ab1-0538-0855-91ae5f43b6fd.htm" />
+  <HelpKINode Title="DataLayerBase.HostExists method" Url="html/a457a461-54e8-d203-8f91-5a0f7bd10a09.htm" />
+  <HelpKINode Title="DataLayerBase.Search method" Url="html/c0efaec9-2bbb-ad67-42b3-53594bda2f5c.htm" />
+  <HelpKINode Title="DataLayerBase.TestConnection method" Url="html/90d487cf-9399-25f1-84f8-26a41d11635c.htm" />
+  <HelpKINode Title="DataLayerFactory class" Url="html/5a467081-1609-b526-0748-7c90df548714.htm" />
+  <HelpKINode Title="DataLayerFactory class" Url="html/84621d86-7975-38be-22d3-cb67aabb3f27.htm" />
+  <HelpKINode Title="DataLayerFactory class">
+    <HelpKINode Title="about DataLayerFactory class" Url="html/84621d86-7975-38be-22d3-cb67aabb3f27.htm" />
+    <HelpKINode Title="all members" Url="html/5a467081-1609-b526-0748-7c90df548714.htm" />
+    <HelpKINode Title="methods" Url="html/fbdf1412-850c-ce6b-086d-ab9167fb8c92.htm" />
+    <HelpKINode Title="properties" Url="html/7982bdbc-825c-96bb-34be-e31e3899f72f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataLayerFactory.GetDataLayer method" Url="html/43321106-741a-0413-68dc-80f74825e495.htm" />
+  <HelpKINode Title="DataLayerFactory.Instance property" Url="html/d4091bb1-ac59-67a8-4bd4-86e1ae1b8ed6.htm" />
+  <HelpKINode Title="DataLayerType enumeration" Url="html/472dc9fa-1ae7-32d5-71f8-32727bb2929a.htm" />
+  <HelpKINode Title="DBConstants class" Url="html/45566545-d86f-9e18-59cf-2ecab34b9d9d.htm" />
+  <HelpKINode Title="DBConstants class" Url="html/c005a67e-1336-1e74-206d-620545ef2fee.htm" />
+  <HelpKINode Title="DBConstants class">
+    <HelpKINode Title="about DBConstants class" Url="html/45566545-d86f-9e18-59cf-2ecab34b9d9d.htm" />
+    <HelpKINode Title="all members" Url="html/c005a67e-1336-1e74-206d-620545ef2fee.htm" />
+    <HelpKINode Title="constructor" Url="html/f4a67a80-a0b7-be82-b7af-c50bf96a513c.htm" />
+    <HelpKINode Title="methods" Url="html/eda0a626-5e26-a2cd-7f3b-d5824d29c2ce.htm" />
+    <HelpKINode Title="properties" Url="html/72dc0265-fa19-479e-b024-69b7fc338a55.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DBConstants.Album property" Url="html/a24b96e6-e8c9-e1d1-b05c-9c9cdb96927b.htm" />
+  <HelpKINode Title="DBConstants.Artist property" Url="html/9c68f74d-7cd8-2a94-467a-2ba596b94a8a.htm" />
+  <HelpKINode Title="DBConstants.DBConstants constructor" Url="html/f4a67a80-a0b7-be82-b7af-c50bf96a513c.htm" />
+  <HelpKINode Title="DBConstants.Genre property" Url="html/19d4babd-8ea4-c06a-d3d9-889bead44ca8.htm" />
+  <HelpKINode Title="DBConstants.HostId property" Url="html/ea7e7a12-f99a-9687-6a37-15824252232b.htm" />
+  <HelpKINode Title="DBConstants.MusicTrackId property" Url="html/666ca68e-b5ae-d281-d7b5-d4000afe80d7.htm" />
+  <HelpKINode Title="DBConstants.Path property" Url="html/1cdf1334-3504-1d83-1a09-9832bf1745fe.htm" />
+  <HelpKINode Title="DBConstants.Title property" Url="html/e57797fb-0a8e-1756-5399-ce28a2da4f23.htm" />
+  <HelpKINode Title="DBConstants.Year property" Url="html/76ac7c38-2dad-931d-2a26-ce2fb3bd3209.htm" />
+  <HelpKINode Title="DeleteObsoleteEntries method" Url="html/565f5bb9-5e5a-fb3b-c083-6816103aa4fe.htm" />
+  <HelpKINode Title="DeleteObsoleteEntries method" Url="html/6ab1fa21-e63b-cca2-000d-34964524fcd5.htm" />
+  <HelpKINode Title="Genre property" Url="html/19d4babd-8ea4-c06a-d3d9-889bead44ca8.htm" />
+  <HelpKINode Title="Genre property" Url="html/f72b6ce3-4c80-fa97-96cb-72670b255efe.htm" />
+  <HelpKINode Title="GetAllHosts method" Url="html/312b02ea-2d75-d846-cf5d-ce58a7335a00.htm" />
+  <HelpKINode Title="GetAllHosts method" Url="html/95f109d1-57b7-7fa3-443f-2b5e7be31939.htm" />
+  <HelpKINode Title="GetDataLayer method" Url="html/43321106-741a-0413-68dc-80f74825e495.htm" />
+  <HelpKINode Title="GetMusicTrack method" Url="html/dfd5e7a2-faa0-11b6-5a07-8fa204cc80ab.htm" />
+  <HelpKINode Title="GetMusicTrack method" Url="html/e8550949-ed58-f634-2ad7-33a124f41fc4.htm" />
+  <HelpKINode Title="GetMusicTrack method" Url="html/f02926ca-b214-42a2-b6a7-e578e6e8fb8c.htm" />
+  <HelpKINode Title="GetMusicTrackFromID3 method" Url="html/d0d482dd-a4cb-9221-37b5-1d488e23b59f.htm" />
+  <HelpKINode Title="GetTotalFileCount method" Url="html/93877138-2ab1-0538-0855-91ae5f43b6fd.htm" />
+  <HelpKINode Title="GetTotalFileCount method" Url="html/a50ce945-35a3-ceb2-8f81-1bd58e890310.htm" />
+  <HelpKINode Title="GetTotalFileCount method" Url="html/fe7faf51-80b5-00bf-4e37-d82ab67d9b87.htm" />
+  <HelpKINode Title="HostExists method" Url="html/5482b31b-c232-632e-b298-02b6db31d13e.htm" />
+  <HelpKINode Title="HostExists method" Url="html/a457a461-54e8-d203-8f91-5a0f7bd10a09.htm" />
+  <HelpKINode Title="HostId property" Url="html/ea7e7a12-f99a-9687-6a37-15824252232b.htm" />
+  <HelpKINode Title="Id3Reader class" Url="html/20558902-ecad-3f9f-897d-61dc0d88a658.htm" />
+  <HelpKINode Title="Id3Reader class" Url="html/8975658d-eb66-971e-3913-8894f94075a8.htm" />
+  <HelpKINode Title="Id3Reader class">
+    <HelpKINode Title="about Id3Reader class" Url="html/8975658d-eb66-971e-3913-8894f94075a8.htm" />
+    <HelpKINode Title="all members" Url="html/20558902-ecad-3f9f-897d-61dc0d88a658.htm" />
+    <HelpKINode Title="methods" Url="html/0a0b8c05-90b8-e351-e450-cb384f836030.htm" />
+    <HelpKINode Title="properties" Url="html/204b30c5-835c-f369-b6e0-23fd6e62f9a3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Id3Reader.GetMusicTrackFromID3 method" Url="html/d0d482dd-a4cb-9221-37b5-1d488e23b59f.htm" />
+  <HelpKINode Title="Id3Reader.Instance property" Url="html/a6e6cfb8-872e-6c5a-aa43-5d39b2c060ea.htm" />
+  <HelpKINode Title="Instance property" Url="html/4a299fe1-9223-eb2b-7331-bad1e80a89d6.htm" />
+  <HelpKINode Title="Instance property" Url="html/a6e6cfb8-872e-6c5a-aa43-5d39b2c060ea.htm" />
+  <HelpKINode Title="Instance property" Url="html/d4091bb1-ac59-67a8-4bd4-86e1ae1b8ed6.htm" />
+  <HelpKINode Title="MusicTrack class" Url="html/8cd955b5-bb2c-4b75-5ea3-ced00610c862.htm" />
+  <HelpKINode Title="MusicTrack class" Url="html/ca5c4542-8127-2412-0203-51f48ccdab3a.htm" />
+  <HelpKINode Title="MusicTrack class">
+    <HelpKINode Title="about MusicTrack class" Url="html/8cd955b5-bb2c-4b75-5ea3-ced00610c862.htm" />
+    <HelpKINode Title="all members" Url="html/ca5c4542-8127-2412-0203-51f48ccdab3a.htm" />
+    <HelpKINode Title="constructor" Url="html/f52c507e-0ef2-b243-e9ea-31bcc1c99174.htm" />
+    <HelpKINode Title="methods" Url="html/a6764176-d2d9-32c8-eede-63997385a980.htm" />
+    <HelpKINode Title="properties" Url="html/295c77fc-5812-6c24-a2bc-e259588434cd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MusicTrack.Album property" Url="html/c683cd4b-8976-507f-ebf1-2fbf63318329.htm" />
+  <HelpKINode Title="MusicTrack.Artist property" Url="html/2fa7ee0d-b1eb-a5fd-d8a2-c22fa3accfff.htm" />
+  <HelpKINode Title="MusicTrack.Genre property" Url="html/f72b6ce3-4c80-fa97-96cb-72670b255efe.htm" />
+  <HelpKINode Title="MusicTrack.MusicTrack constructor" Url="html/f52c507e-0ef2-b243-e9ea-31bcc1c99174.htm" />
+  <HelpKINode Title="MusicTrack.Title property" Url="html/f4d98787-8445-3d34-18a5-5136f3de7d47.htm" />
+  <HelpKINode Title="MusicTrack.Year property" Url="html/c39d2614-6c7c-1321-eaa4-2972d1e720c7.htm" />
+  <HelpKINode Title="MusicTrackId property" Url="html/666ca68e-b5ae-d281-d7b5-d4000afe80d7.htm" />
+  <HelpKINode Title="MusicTrackManager class" Url="html/57ab8ca3-7cc4-61bb-2174-e7d7de306848.htm" />
+  <HelpKINode Title="MusicTrackManager class" Url="html/a2f8aca5-9477-fe85-c4c4-4132a2340137.htm" />
+  <HelpKINode Title="MusicTrackManager class">
+    <HelpKINode Title="about MusicTrackManager class" Url="html/a2f8aca5-9477-fe85-c4c4-4132a2340137.htm" />
+    <HelpKINode Title="all members" Url="html/57ab8ca3-7cc4-61bb-2174-e7d7de306848.htm" />
+    <HelpKINode Title="methods" Url="html/5ea02665-e1c7-2ef8-08ae-59563ab2f660.htm" />
+    <HelpKINode Title="properties" Url="html/ad4bbb81-8799-9e3a-7120-9e759616fd17.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MusicTrackManager.GetMusicTrack method" Url="html/dfd5e7a2-faa0-11b6-5a07-8fa204cc80ab.htm" />
+  <HelpKINode Title="MusicTrackManager.GetTotalFileCount method" Url="html/fe7faf51-80b5-00bf-4e37-d82ab67d9b87.htm" />
+  <HelpKINode Title="MusicTrackManager.Instance property" Url="html/4a299fe1-9223-eb2b-7331-bad1e80a89d6.htm" />
+  <HelpKINode Title="MusicTrackManager.Search method" Url="html/e75f33aa-4123-6680-48c4-2ecc91fd6426.htm" />
+  <HelpKINode Title="MusicTrackManager.StartupCheck method" Url="html/54a4df2b-28ee-e0e9-f52a-36fc8afce704.htm" />
+  <HelpKINode Title="Path property" Url="html/1cdf1334-3504-1d83-1a09-9832bf1745fe.htm" />
+  <HelpKINode Title="Search method" Url="html/722bb3aa-950b-c353-ae17-4967ee793ca4.htm" />
+  <HelpKINode Title="Search method" Url="html/c0efaec9-2bbb-ad67-42b3-53594bda2f5c.htm" />
+  <HelpKINode Title="Search method" Url="html/e75f33aa-4123-6680-48c4-2ecc91fd6426.htm" />
+  <HelpKINode Title="Soulstone.Data namespace" Url="html/479c4c1d-f161-d176-0100-6eac2880e297.htm" />
+  <HelpKINode Title="Soulstone.Data.DataLayerBase class" Url="html/0e1f9fb5-406b-dade-950a-d4d0ecde596e.htm" />
+  <HelpKINode Title="Soulstone.Data.DataLayerBase class" Url="html/5e1d26af-d9ed-e35a-14d0-97c5fe46823f.htm" />
+  <HelpKINode Title="Soulstone.Data.DataLayerFactory class" Url="html/5a467081-1609-b526-0748-7c90df548714.htm" />
+  <HelpKINode Title="Soulstone.Data.DataLayerFactory class" Url="html/84621d86-7975-38be-22d3-cb67aabb3f27.htm" />
+  <HelpKINode Title="Soulstone.Data.DataLayerType enumeration" Url="html/472dc9fa-1ae7-32d5-71f8-32727bb2929a.htm" />
+  <HelpKINode Title="Soulstone.Data.DBConstants class" Url="html/45566545-d86f-9e18-59cf-2ecab34b9d9d.htm" />
+  <HelpKINode Title="Soulstone.Data.DBConstants class" Url="html/c005a67e-1336-1e74-206d-620545ef2fee.htm" />
+  <HelpKINode Title="Soulstone.Data.SqlServerDataLayer class" Url="html/356bacf7-dbb5-7a8c-b55f-d9c5852085f5.htm" />
+  <HelpKINode Title="Soulstone.Data.SqlServerDataLayer class" Url="html/a9075e5c-ea6a-ae21-a530-3f3eeca7be7f.htm" />
+  <HelpKINode Title="Soulstone.Mp3 namespace" Url="html/dff3b541-6c19-7fec-aef5-c8d386a8c465.htm" />
+  <HelpKINode Title="Soulstone.Mp3.Id3Reader class" Url="html/20558902-ecad-3f9f-897d-61dc0d88a658.htm" />
+  <HelpKINode Title="Soulstone.Mp3.Id3Reader class" Url="html/8975658d-eb66-971e-3913-8894f94075a8.htm" />
+  <HelpKINode Title="Soulstone.Mp3.MusicTrack class" Url="html/8cd955b5-bb2c-4b75-5ea3-ced00610c862.htm" />
+  <HelpKINode Title="Soulstone.Mp3.MusicTrack class" Url="html/ca5c4542-8127-2412-0203-51f48ccdab3a.htm" />
+  <HelpKINode Title="Soulstone.Mp3.MusicTrackManager class" Url="html/57ab8ca3-7cc4-61bb-2174-e7d7de306848.htm" />
+  <HelpKINode Title="Soulstone.Mp3.MusicTrackManager class" Url="html/a2f8aca5-9477-fe85-c4c4-4132a2340137.htm" />
+  <HelpKINode Title="SqlServer enumeration member" Url="html/472dc9fa-1ae7-32d5-71f8-32727bb2929a.htm" />
+  <HelpKINode Title="SqlServerDataLayer class" Url="html/356bacf7-dbb5-7a8c-b55f-d9c5852085f5.htm" />
+  <HelpKINode Title="SqlServerDataLayer class" Url="html/a9075e5c-ea6a-ae21-a530-3f3eeca7be7f.htm" />
+  <HelpKINode Title="SqlServerDataLayer class">
+    <HelpKINode Title="about SqlServerDataLayer class" Url="html/356bacf7-dbb5-7a8c-b55f-d9c5852085f5.htm" />
+    <HelpKINode Title="all members" Url="html/a9075e5c-ea6a-ae21-a530-3f3eeca7be7f.htm" />
+    <HelpKINode Title="methods" Url="html/5b4188bc-f73f-5e11-3723-f05e044c0be5.htm" />
+    <HelpKINode Title="properties" Url="html/608c7e74-a623-9b1b-deb4-19341918fe47.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlServerDataLayer.ConnString property" Url="html/81575558-10a2-4608-c589-3629fcc72095.htm" />
+  <HelpKINode Title="SqlServerDataLayer.CreateHost method" Url="html/c21a3469-be5f-e0f8-6d6c-78d31dbf73fd.htm" />
+  <HelpKINode Title="SqlServerDataLayer.CreateOrUpdateMusicTrack method" Url="html/c0dfaa39-043e-8653-0c86-28e6400c5006.htm" />
+  <HelpKINode Title="SqlServerDataLayer.DeleteObsoleteEntries method" Url="html/6ab1fa21-e63b-cca2-000d-34964524fcd5.htm" />
+  <HelpKINode Title="SqlServerDataLayer.GetAllHosts method" Url="html/312b02ea-2d75-d846-cf5d-ce58a7335a00.htm" />
+  <HelpKINode Title="SqlServerDataLayer.GetMusicTrack method" Url="html/f02926ca-b214-42a2-b6a7-e578e6e8fb8c.htm" />
+  <HelpKINode Title="SqlServerDataLayer.GetTotalFileCount method" Url="html/a50ce945-35a3-ceb2-8f81-1bd58e890310.htm" />
+  <HelpKINode Title="SqlServerDataLayer.HostExists method" Url="html/5482b31b-c232-632e-b298-02b6db31d13e.htm" />
+  <HelpKINode Title="SqlServerDataLayer.Search method" Url="html/722bb3aa-950b-c353-ae17-4967ee793ca4.htm" />
+  <HelpKINode Title="SqlServerDataLayer.TestConnection method" Url="html/12dba264-d2d6-1de7-7a74-9628eb838b24.htm" />
+  <HelpKINode Title="StartupCheck method" Url="html/54a4df2b-28ee-e0e9-f52a-36fc8afce704.htm" />
+  <HelpKINode Title="TestConnection method" Url="html/12dba264-d2d6-1de7-7a74-9628eb838b24.htm" />
+  <HelpKINode Title="TestConnection method" Url="html/90d487cf-9399-25f1-84f8-26a41d11635c.htm" />
+  <HelpKINode Title="Title property" Url="html/e57797fb-0a8e-1756-5399-ce28a2da4f23.htm" />
+  <HelpKINode Title="Title property" Url="html/f4d98787-8445-3d34-18a5-5136f3de7d47.htm" />
+  <HelpKINode Title="Year property" Url="html/76ac7c38-2dad-931d-2a26-ce2fb3bd3209.htm" />
+  <HelpKINode Title="Year property" Url="html/c39d2614-6c7c-1321-eaa4-2972d1e720c7.htm" />
+</HelpKI>

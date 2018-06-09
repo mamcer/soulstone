@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Soulstone.SL.ResultViewMoreInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="590" Height="100">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel Height="100" Width="590" x:Name="gridMoreInfo" Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Artista" Margin="25,10,245,0"/>
+                <TextBlock Text="Año" Margin="0,10,0,0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="txtArtist" IsReadOnly="True" FontSize="9" Width="250" Margin="25,0,20,5"/>
+                <TextBox x:Name="txtYear" IsReadOnly="True" FontSize="9" Width="250" Margin="10,0,0,5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Album" Margin="25,0,245,0"/>
+                <TextBlock Text="Género"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="txtAlbum" IsReadOnly="True" FontSize="9" Width="250" Margin="25,0,20,0"/>
+                <TextBox x:Name="txtGenre" IsReadOnly="True" FontSize="9" Width="250" Margin="10,0,0,0"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

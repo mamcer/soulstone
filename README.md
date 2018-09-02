@@ -30,7 +30,7 @@ It surprises me the time incurred in details like the xml code comments and then
 
 ## Credits
 
-Shares and CompEnum included in the Network module. The original authors seemed to be:
+Shares and CompEnum included in the Network module. The original authors seem to be:
 
 [Richard Deeming](http://www.codeproject.com/script/profile/whos_who.asp?id=34187)  
 [Marc Merritt](http://www.thecodeproject.com/script/profile/whos_who.asp?id=2851)

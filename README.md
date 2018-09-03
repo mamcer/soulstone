@@ -5,6 +5,8 @@ A .NET collection of applications from 2008. For example the main front end appl
 
 > In `original` branch you will find the original source code for this application. In `master` an upgraded, refactored version.
 
+> More details about why I published this project in [this blog post](https://mamcer.github.io/2018-09-02-i-cleaned-up-my-virtual-basement/)
+
 ## Description 
 
 The main goal of this application was to learn Silverlight. The future of the web! (at least at that moment and according to Microsoft). Six years before the initial release of HTML5.
